@@ -1,4 +1,4 @@
-# SDCC PSG AY38910 playFX Functions Library (object type)
+# Test Z80 8 bits Pseudo-Random Number Generator
 
 Author: mvac7/303bcn
 
