@@ -21,14 +21,19 @@ This project is an opensource.
 
 Developed using Small Device C Compiler (SDCC).
   
-Programs for test a Pseudo-Random Number Generator (PRNG).
+Programs for test a Z80 8 bits Pseudo-Random Number Generator (PRNG).
 
 - test_R - Displays screens with a list of 230 consecutive numbers provided by the R register of the Z80.
 
+!(https://github.com/mvac7/SDCC_test_Z80PRNG/raw/master/pics/test_R_0001.png)
+
 - test_PRNG - Displays screens with a list of 230 consecutive numbers provided by a PRNG routine.
+
+!(https://github.com/mvac7/SDCC_test_Z80PRNG/raw/master/pics/test_PRNG_0001.png)
 
 - test_PRNG_GFX - Graphically displays a list of 32768 numbers provided by a PRNG routine, distributed in 256 horizontal columns with the repetitions of each value (0 to 255).
 
+!(https://github.com/mvac7/SDCC_test_Z80PRNG/raw/master/pics/test_PRNG_GFX_0001.png)
 
                            
 
